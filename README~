@@ -1,0 +1,7 @@
+Compile:
+
+g++ SortedList.cpp Student.cpp SortedListDr.cpp -o run
+
+Run:
+
+./run

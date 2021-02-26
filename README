@@ -1,0 +1,9 @@
+Albert You- 811289830
+
+Compile:
+
+g++ SortedList.cpp Student.cpp SortedListDr.cpp -o run
+
+Run:
+
+./run

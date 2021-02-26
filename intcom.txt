@@ -1,0 +1,8 @@
+GetLength
+IsEmpty
+DeleteItem 12
+PutItem 15
+PutItem 10
+PutItem 20
+PrintList
+Quit
